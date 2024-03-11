@@ -7,9 +7,9 @@
 
 # Skills
 
-- I am a proficient programmer in R, Python, and Julia, particularly in spatial analysis, modeling, simulation, and statistics
+- I am a proficient programmer in R, Python, and Julia, particularly in spatial analysis, modeling, simulation, and statistics.
 - I leverage open source software to the fullest extent.
-- Have dabbled in numerous other interfaces such as C, C++, javascript (particularly Google Earth Engine), and ArcGIS (begrudgingly)
+- Have dabbled in numerous other interfaces such as C, C++, javascript (particularly Google Earth Engine), and ArcGIS (begrudgingly).
 - I am also a proficient teacher's assistant/tutor, having been one for 6 different courses.
 <!--
 **souma4/souma4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
